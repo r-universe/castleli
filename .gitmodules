@@ -7,4 +7,4 @@
 	url = https://github.com/cran/GrabSVG
 [submodule "scBSP"]
 	path = scBSP
-	url = https://github.com/cran/scBSP
+	url = https://github.com/castleli/scbsp
